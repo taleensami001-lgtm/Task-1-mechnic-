@@ -2,7 +2,7 @@
 
 
 
-### **first / disign how it looks and the structure looks اولاًّ / تصميم شكل الجسم والهيكل**
+### **1 / disign how it looks and the structure looks ١ / تصميم شكل الجسم والهيكل**
 
   -first i used ( paper + pencil ) for initial sketches
 
@@ -15,6 +15,8 @@
 
 ![imp alt](https://github.com/taleensami001-lgtm/Task-1-mechnic-/blob/718d15720152bd0e90007231c5fd232813e88f5f/IMG_1821.jpeg)
 
+### **2 / disign the legs ٢/ تصميم الأرجل**
 
+![img alt]()
 
 
