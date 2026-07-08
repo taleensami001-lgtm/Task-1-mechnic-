@@ -17,6 +17,7 @@
 
 ### **2 / disign the legs ٢/ تصميم الأرجل**
 
-![img alt]()
+- 
+![img alt](https://github.com/taleensami001-lgtm/Dog-robot/blob/36c6c952e3133bb53401d2c8f0a22a2c04b33aa0/IMG_1827.jpeg)
 
 
