@@ -17,6 +17,7 @@
 
 ### **2 / disign the legs and it's movement  ٢/ تصميم الأرجل وحركتها**
 
+
 - Moving Forward: The robot moves the legs on the same side of its body at the exact same time.
 The robot lifts and swings the Front-Right and Hind-Right legs forward together, while balancing entirely on its left side.
 Once they land, it lifts and swings the Front-Left and Hind-Left legs forward.
@@ -33,4 +34,9 @@ Once they land, it lifts and swings the Front-Left and Hind-Left legs forward.
 
 ![img alt](https://github.com/taleensami001-lgtm/Dog-robot/blob/36c6c952e3133bb53401d2c8f0a22a2c04b33aa0/IMG_1827.jpeg)
 
+
+- Front Legs: The "knee" joints bend backward (toward the tail).
+- Hind Legs: The "knee" joints bend forward (with the knees pointing toward the head).
+- الأرجل الأمامية: تنحني المفاصل (الركبة) إلى الخلف.
+- الأرجل الخلفية: تنحني المفاصل إلى الأمام.
 
