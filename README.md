@@ -15,7 +15,7 @@
 
 ![imp alt](https://github.com/taleensami001-lgtm/Task-1-mechnic-/blob/718d15720152bd0e90007231c5fd232813e88f5f/IMG_1821.jpeg)
 
-### **2 / disign the legs ٢/ تصميم الأرجل**
+### **2 / disign the legs and it's movement  ٢/ تصميم الأرجل وحركتها**
 
 - 
 ![img alt](https://github.com/taleensami001-lgtm/Dog-robot/blob/36c6c952e3133bb53401d2c8f0a22a2c04b33aa0/IMG_1827.jpeg)
