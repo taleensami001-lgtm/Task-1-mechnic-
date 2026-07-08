@@ -2,7 +2,7 @@
 
 
 
-### **1 / disign how it looks and the structure looks ١ / تصميم شكل الجسم والهيكل**
+### **1 / disign how it looks and the structure looks اولا / تصميم شكل الجسم والهيكل**
 
 - first i used ( paper + pencil ) for initial sketches
 
@@ -15,7 +15,7 @@
 
 ![imp alt](https://github.com/taleensami001-lgtm/Task-1-mechnic-/blob/718d15720152bd0e90007231c5fd232813e88f5f/IMG_1821.jpeg)
 
-### **2 / disign the legs and it's movement  ٢/ تصميم الأرجل وحركتها**
+### **2 / disign the legs and it's movement  ثانيا / تصميم الأرجل وحركتها**
 
 
 - Moving Forward: The robot moves the legs on the same side of its body at the exact same time.
@@ -43,4 +43,10 @@ Once they land, it lifts and swings the Front-Left and Hind-Left legs forward.
 ![img alt](https://github.com/taleensami001-lgtm/Dog-robot/blob/1451e1dd75e799fe8472d960a482e7eb0d847dd0/IMG_1829.jpeg)
 
 
-### **3 / Degrees of freedom (Dof) 
+### **3 / Robot's joints & Degrees of freedom (Dof) ثالثا / عدد المفاصل ودرجات الحرية**
+
+- 4 Joints
+- 4 Dof
+
+### **4 / Motors رابعا / المحركات**
+
