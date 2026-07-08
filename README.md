@@ -2,8 +2,7 @@
 
 
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
-### **first / disign how it looks and the structure looks**
+### **-first / disign how it looks and the structure looks**
 ### **اولاًّ / تصميم شكل الجسم والهيكل**
 
   -first i used ( paper + pencil ) for initial sketches
