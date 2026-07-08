@@ -1,4 +1,4 @@
-# Task 1 -> Making a preliminary design of a dog robot المهمة الأولى -> تصميم أولي لكلب روبوت
+# Making a preliminary design of a dog robot تصميم أولي لكلب روبوت
 
 
 
