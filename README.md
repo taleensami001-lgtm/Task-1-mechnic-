@@ -84,4 +84,20 @@ To find the mass, we must first calculate the volume (V) of the object. The volu
 4. Calculating Mass
 Mass is obtained by multiplying the volume by the density (p) of the material used. The material chosen is a 3D-printing plastic filament (e.g., PLA), known for its excellent printability, with a density of 1.21g/cm^3.
 
-**
+**m = Vp**
+**m = 360 cm^3 X 1.21 g/cm^3 = 435.6 g**
+
+5. Unit Conversion
+To strictly adhere to standard SI physics units (calculating Force in Newtons), the mass must be converted from grams to kilograms by multiplying by 10^-3 (or dividing by 1,000):
+
+**m = 435,6 X 10^-3 = 0.4356 kg**
+
+6. Final Force and Torque Calculation
+Now, we multiply the mass in kilograms by the standard gravitational acceleration (g = 9.8m/s^2):
+
+**F = 0.4356 kg X 9.8 m/s^2 = 4.27 N**
+
+7. Finally, to find the torque, substitute this force back into the initial torque equation and multiply it by the given distance from the axis of rotation:
+
+**t = Fd**
+**t = 4.27 N X 2 = 85.4 Nm**
