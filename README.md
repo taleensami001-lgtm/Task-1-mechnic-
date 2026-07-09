@@ -140,3 +140,6 @@ Now, we multiply the mass in kilograms by the standard gravitational acceleratio
 
 **العزم = القوة × المسافة.**
 **العزم = 4.27 نيوتن × 2 متر = 8.54 نيوتن.متر.**
+
+
+### **
