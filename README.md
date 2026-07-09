@@ -78,3 +78,10 @@ To find the mass, we must first calculate the volume (V) of the object. The volu
  - and that is my Robot's length , width and height in : 
 
 ![img alt](https://github.com/taleensami001-lgtm/Dog-robot/blob/2e326a0cf153084ae895d28993d6b05be3f497ac/IMG_6012.jpeg)
+
+ **V = 9 x 5 x 8 = 360 cm^3**
+
+4. Calculating Mass
+Mass is obtained by multiplying the volume by the density (p) of the material used. The material chosen is a 3D-printing plastic filament (e.g., PLA), known for its excellent printability, with a density of 1.21g/cm^3.
+
+**
