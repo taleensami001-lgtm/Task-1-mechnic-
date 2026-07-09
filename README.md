@@ -142,4 +142,7 @@ Now, we multiply the mass in kilograms by the standard gravitational acceleratio
 **العزم = 4.27 نيوتن × 2 متر = 8.54 نيوتن.متر.**
 
 
-### **
+### **6 / Stability and the Center of Gravity of the robot سادسا / الثبات ومركز الجاذبيه لدى الروبوت**
+
+
+
